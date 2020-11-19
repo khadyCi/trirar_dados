@@ -1,0 +1,1 @@
+# trirar_dados
