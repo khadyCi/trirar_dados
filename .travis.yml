@@ -1,7 +1,7 @@
 language: php
 php:
   - "7.0"
-# list any PHP version you want to test against
+# list any PHP version you want to test against dans la travis
  
 script:
 - php index.php
