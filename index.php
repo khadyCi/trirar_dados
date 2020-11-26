@@ -11,7 +11,7 @@
     } else {
         # No coinciden, así que simplemente imprimimos un
         # mensaje diciendo que es incorrecto
-        echo "El usuario o la contraseña son incorrectos";
+        echo "El usuario o la contraseña son incorrectos puedes hacer una mdificacion";
     } 
  } 
 
